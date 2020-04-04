@@ -3,7 +3,7 @@ Network deployment on Google cloud using Terraform
 
 This repository will deploy 2 networks with firewall rules and compute engine instances, as shown in the diagram below:
 
-![alt text](https://github.com/krishan03/gcp-terraform-networks-firewalls-vms/blob/master/network.png)
+![alt text](https://github.com/krishan03/GCP-Terraform-VPC-Firewall-Instances/blob/master/network.png)
 
 To use this, make sure tha you have a valid GCP account and the GCP project with billing enabled. Activate the cloud shell and install the terraform bu using the below commands:
 ```
